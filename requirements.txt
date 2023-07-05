@@ -1,6 +1,5 @@
-fastapi
+pandas
 numpy
 sklearn
-pandas
+fastapi
 uvicorn
-streamlit
