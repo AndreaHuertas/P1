@@ -1,5 +1,5 @@
-pandas
-numpy
-sklearn
 fastapi
+pandas
 uvicorn
+scikit-learn
+requests
