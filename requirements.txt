@@ -1,3 +1,6 @@
+fastapi
+numpy
 sklearn
 pandas
+uvicorn
 streamlit
