@@ -109,7 +109,7 @@ Vista previa de la aplicacion web, generada con streamlit.
 
 ***
 ## **📎Links**
-* <A HREF="">API  de consultas de películas </A>.
+* <A HREF="https://andrehuertas-deploylab1.onrender.com/docs">API  de consultas de películas </A>.
  
 * <A HREF="https://p1-6n55x3niz6b.streamlit.app/"> Recomendacion de películas.</A> 
 
