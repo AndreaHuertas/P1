@@ -59,7 +59,7 @@ def user_input():
 def main():
     #titulo de la aplicacion
     st.title('Movie Recommendation 🎬 🍿')
-    image = Image.open('Image/pel.PNG')
+    image = Image.open('Image/peliculas.png')
     st.image(image, width=700)
     # Llamar a la función user_input()
     user_input()
