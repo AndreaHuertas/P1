@@ -100,7 +100,7 @@ rutaCarpeta>streamlit run ml_model.py
 Vista previa de la aplicacion web, generada con streamlit.
 
 <p align="center">
-  <img src="Image/pantalla.png" />
+  <img src="Image/pan.png" />
 </p>
 
 7. Se realiza el deploy en del API de consultas de películas en <A HREF="https://render.com/">Render</A>.
