@@ -111,12 +111,15 @@ Vista previa de la aplicacion web, generada con streamlit.
 ## **📎Links**
 * <A HREF="https://andrehuertas-deploylab1.onrender.com/docs">API  de consultas de películas </A>.
  
-* <A HREF="https://p1-6n55x3niz6b.streamlit.app/"> Recomendacion de películas.</A> 
+* <A HREF="https://p1-6n55x3niz6b.streamlit.app/"> Recomendacion de películas.</A>
+
+* <A HREF="https://youtu.be/3OIs_iPZ7TU"> Videotutorial del trabajo realizado en Youtube.</A>
 
 ## **👀Recomendaciones**
 ***
 * Emplear solamente minúsculas.
 * No hacer uso de caracteres especiales.
+* Para la funcion _movie_languaje_ ingresar solamente las abreviaturas del idioma, por ejemplo, ingles, en.
 
 ## **📈Tecnologías**
 ***
